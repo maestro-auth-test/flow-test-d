@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dependencies>
+  <ProductDependencies>
+    <Dependency Name="Test.B" Version="1.1.141103">
+      <Uri>https://github.com/maestro-auth-test/flow-test-a</Uri>
+      <Sha>d9c102f5e5ae10e8603b8167d33ab0e602f24e51</Sha>
+    </Dependency>
+  </ProductDependencies>
+  <ToolingDependencies>
+    <Dependency Name="Test.C" Version="1.1.141103">
+      <Uri>https://github.com/maestro-auth-test/flow-test-a</Uri>
+      <Sha>244cfee0c5722337878d44916dfc9f1f3a31febf</Sha>
+    </Dependency>
+  </ToolingDependencies>
+</Dependencies>
